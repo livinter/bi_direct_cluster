@@ -1,3 +1,6 @@
+Happy for any feedback at livint at posteo dot de !!!
+
+
 # Bi-directional Clustering - Numpy Only
 MNIST bi directional clustering as prove of concept. 
 
